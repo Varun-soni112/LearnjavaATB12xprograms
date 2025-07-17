@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_4_Ternary_operator {
+public class Task_4_Ternary_operator_part2 {
     public static void main(String[] args) {
         int num1=9;
         int num2=6;

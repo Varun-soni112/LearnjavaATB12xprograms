@@ -1,6 +1,6 @@
 package Task;
 
-public class task_1 {
+public class Task_1 {
 //    print Table of 5 by using printf
 public static void main(String[] args) {
     int num =5;
