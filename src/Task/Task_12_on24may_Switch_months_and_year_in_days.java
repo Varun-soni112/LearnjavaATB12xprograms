@@ -1,6 +1,6 @@
 package Task;
 import java.util.Scanner;
-public class Task_12_on24may_on_Switchstatement {
+public class Task_12_on24may_Switch_months_and_year_in_days {
     public static void main(String[] args) {
         Scanner s1=new Scanner(System.in);
         Scanner s2=new Scanner(System.in);
