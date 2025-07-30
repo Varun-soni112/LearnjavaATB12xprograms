@@ -1,4 +1,4 @@
-package Ex_010_For_loop;
+package Ex_10_For_loop;
 
 public class Lab087_forloop_Initialization_data_type {
     public static void main(String[] args) {

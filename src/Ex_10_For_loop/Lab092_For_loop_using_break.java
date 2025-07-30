@@ -1,4 +1,4 @@
-package Ex_010_For_loop;
+package Ex_10_For_loop;
 
 public class Lab092_For_loop_using_break {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Ex_010_For_loop;
+package Ex_10_For_loop;
 
 public class Lab093_for_loop_using_continue {
     public static void main(String[] args) {

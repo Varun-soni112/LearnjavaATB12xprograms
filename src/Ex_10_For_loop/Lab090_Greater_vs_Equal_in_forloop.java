@@ -1,4 +1,4 @@
-package Ex_010_For_loop;
+package Ex_10_For_loop;
 
 public class Lab090_Greater_vs_Equal_in_forloop {
     public static void main(String[] args) {

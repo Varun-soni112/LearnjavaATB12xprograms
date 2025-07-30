@@ -1,4 +1,4 @@
-package Ex_010_For_loop;
+package Ex_10_For_loop;
 
 public class Lab091_Odd_Even_from_top50 {
     public static void main(String[] args) {

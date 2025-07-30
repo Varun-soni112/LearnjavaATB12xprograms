@@ -1,4 +1,4 @@
-package Ex_010_For_loop;
+package Ex_10_For_loop;
 
 public class Lab094_for_loop_continue_odd_number {
     public static void main(String[] args) {
