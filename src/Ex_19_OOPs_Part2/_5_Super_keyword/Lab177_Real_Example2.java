@@ -1,4 +1,4 @@
-package Ex_19_OOPs_Part2.Super_keyword;
+package Ex_19_OOPs_Part2._5_Super_keyword;
 
 public class Lab177_Real_Example2 {
     public static void main(String[] args) {
