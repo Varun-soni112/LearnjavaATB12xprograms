@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_32_on_9_june_mobileClass {
+public class Task_32_on_9june_mobileClass {
     public static void main(String[] args) {
         mobile m = new mobile("samsung", 90000);
        m.display();

@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_28_on_9_june_constructor_Program {
+public class Task_28_on_9june_constructor_Program {
     public static void main(String[] args) {
         new Student("varun",20).display();
     }

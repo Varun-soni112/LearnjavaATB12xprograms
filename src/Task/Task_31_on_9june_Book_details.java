@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_31_on_9_june_Book_details {
+public class Task_31_on_9june_Book_details {
     public static void main(String[] args) {
         book b= new book("rich dad poor dad","louis", 499);
         b.display();

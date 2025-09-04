@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_29_on_9_june_constructor_program {
+public class Task_29_on_9june_constructor_program {
     public static void main(String[] args) {
      car c= new car("maruti", 2025,250000);
         System.out.println(c.brand);
