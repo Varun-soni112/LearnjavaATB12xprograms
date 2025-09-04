@@ -1,6 +1,6 @@
 package Task;
 import java.util.Scanner;
-public class Task_15_on_25_may_palindrome_of_String_using_charAt {
+public class Task_15_on_25may_palindrome_of_String_using_charAt {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         System.out.println("Enter the String");
