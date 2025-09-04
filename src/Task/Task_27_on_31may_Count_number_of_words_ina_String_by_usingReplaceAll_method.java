@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_27_on_31_may_Count_number_of_words_ina_String_by_usingReplaceAll_method {
+public class Task_27_on_31may_Count_number_of_words_ina_String_by_usingReplaceAll_method {
     public static void main(String[] args) {
         String str= "  hello   how  are  you?  ";//space =3;
         str=str.trim().replaceAll("\\s+"," ");
