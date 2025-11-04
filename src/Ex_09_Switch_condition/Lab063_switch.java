@@ -1,7 +1,8 @@
 package Ex_09_Switch_condition;
 import java.util.Scanner;
 public class Lab063_switch {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner s= new Scanner(System.in);
         System.out.println("Enter the day");
         int day =s.nextInt();
@@ -30,8 +31,6 @@ public class Lab063_switch {
                 break;
             default:
                 System.out.println("plz enter the valid number");
-
-
         }
         s.close();
 

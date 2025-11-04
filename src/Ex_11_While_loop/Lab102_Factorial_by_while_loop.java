@@ -5,7 +5,7 @@ public class Lab102_Factorial_by_while_loop {
         Scanner s= new Scanner(System.in);
         System.out.println("enter the  number");
 
-        if(!s.hasNextInt()) //it is used for checking the input of user isit interger or not .
+        if(!s.hasNextInt()) //it is used for checking the input of user is it interger or not .
         {
             System.out.println("Enter the int values only");
             return;
